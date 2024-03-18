@@ -1,7 +1,7 @@
 # 2023-2024-4GP-TAILHAN-FERNANDES
 # Projet capteur avec jauge de contrainte de graphène
 ## Description générale : 
-  Nous sommes Amandine Tailhan et David Fernandes, deux élèves de l'INSA Toulouse. Dans le cadre de notre quatrième année, nous avons entrepris un projet sur les capteurs. Notre objectif principal était de déterminer les caractéristiques principales d'une jauge de contrainte low-tech et de les comparer avec sa version conventionnelle, qualifiée de "high-tech". Ce projet vise à répondre à la question suivante : *Ne pourrait-on pas obtenir les mêmes résultats avec une technologie low-tech qu'avec une technologie high-tech ?*
+  Nous sommes Amandine Tailhan et David Fernandes, deux élèves de l'INSA Toulouse. Dans le cadre de notre quatrième année, nous avons entrepris un projet sur les capteurs. Notre objectif principal était de déterminer les caractéristiques principales d'une jauge de contrainte low-tech et de les comparer avec sa version conventionnelle, qualifiée de "high-tech". Ce projet vise à répondre à la question suivante : *Ne pourrait-on pas obtenir parfois les mêmes résultats avec une technologie low-tech qu'avec une technologie high-tech ?*
 <br> <br>
 Pour réaliser cette comparaison, nous avons conçu un banc de test à partir de zéro. Sur ce dépôt GitHub, vous trouverez tous les outils et codes que nous avons développés pour répondre à cette question. Enfin, à la fin de ce dépôt, vous découvrirez la réponse à notre problématique.
 
