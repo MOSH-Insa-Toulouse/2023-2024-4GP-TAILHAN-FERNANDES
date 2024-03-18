@@ -1,7 +1,7 @@
 # 2023-2024-4GP-TAILHAN-FERNANDES
 # Projet capteur avec jauge de contrainte de graphène
 ## Description générale : 
-Nous sommes Amandine Tailhan et David Fernandes deux élèves à l'INSA Toulouse. Au cours de notre 4ème année nous avons reálisé ce projet capteurs donc l'objectif a été de déterminer les caractéristiques principales d'une jauge de contrainte low tech et de les comparer avec sa version conventionnelle ou "high tech". Pour réaliser cette comparaison nous avons créer un banc de test depuis 0. 
+  Nous sommes Amandine Tailhan et David Fernandes deux élèves à l'INSA Toulouse. Au cours de notre 4ème année nous avons reálisé ce projet capteurs donc l'objectif a été de déterminer les caractéristiques principales d'une jauge de contrainte low tech et de les comparer avec sa version conventionnelle ou "high tech". Pour réaliser cette comparaison nous avons créer un banc de test depuis 0. 
 
 ## Contenu : 
 Dans ce github vous retrouverez tout le travail réalisé dans le contexte de ce projet capteur. Vous trouverez un dossier indépendant pour chaque partie de notre projet. <br>
@@ -36,7 +36,7 @@ Dans ce github vous retrouverez tout le travail réalisé dans le contexte de ce
 4. Lancez le code 
 
 ### Menu sur l'OLED : 
-Lorsque vous alncez le code sur l'Arduino l'écran OLED s'allume. Sur l'écran OLED vous pourrez accéder à deux menus différents. Le premier menu permet de choisir quelle jauge de contrainte vous voulez mesurer : celle en graphène et la conventionnelle. Le deuxième menu affiche la valeur de la résistance R2 et l'option de recalibration de celle-ci. En effet, en fonction du crayon utilisée pour faire le capteur de graphène la résistance à l'état de repos peut être plus ou moins grande c'est pour celà qu'on a ajouté l'option de recalibration qui permet d'ajuster le gain du montage en modifiant la valeur de la résistance R2. <br>
+  Lorsque vous alncez le code sur l'Arduino l'écran OLED s'allume. Sur l'écran OLED vous pourrez accéder à deux menus différents. Le premier menu permet de choisir quelle jauge de contrainte vous voulez mesurer : celle en graphène et la conventionnelle. Le deuxième menu affiche la valeur de la résistance R2 et l'option de recalibration de celle-ci. En effet, en fonction du crayon utilisée pour faire le capteur de graphène la résistance à l'état de repos peut être plus ou moins grande c'est pour celà qu'on a ajouté l'option de recalibration qui permet d'ajuster le gain du montage en modifiant la valeur de la résistance R2. <br> <br>
 Pour passer d'un menu à un autre il faut appuyer sur l'encodeur rotatoire. À l'intérieur de chaque menu pour se déplacer parmis les différentes options vous n'avez qu'à faire tourner l'encodeur. Ainsi pour mesurer la résistance de la jauge de contrainte en graphène il faut se placer dans le menu "Résistances" et sélectionner la résistance R graph. D'autre part, pour réaliser la calibration de la résistance R2 il faut se placer dans le menu "Calibration", sélectionner l'option "Recalibration" et appuyer sur l'encodeur 2s.
 
 ### Application :
