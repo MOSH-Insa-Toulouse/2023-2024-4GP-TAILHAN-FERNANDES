@@ -1,7 +1,9 @@
 # 2023-2024-4GP-TAILHAN-FERNANDES
 # Projet capteur avec jauge de contrainte de graphène
 ## Description générale : 
-  Nous sommes Amandine Tailhan et David Fernandes deux élèves à l'INSA Toulouse. Au cours de notre 4ème année nous avons reálisé ce projet capteurs donc l'objectif a été de déterminer les caractéristiques principales d'une jauge de contrainte low tech et de les comparer avec sa version conventionnelle ou "high tech". Pour réaliser cette comparaison nous avons créer un banc de test depuis 0. 
+  Nous sommes Amandine Tailhan et David Fernandes, deux élèves de l'INSA Toulouse. Dans le cadre de notre quatrième année, nous avons entrepris un projet sur les capteurs. Notre objectif principal était de déterminer les caractéristiques principales d'une jauge de contrainte low-tech et de les comparer avec sa version conventionnelle, qualifiée de "high-tech". Ce projet vise à répondre à la question suivante : *Ne pourrait-on pas obtenir les mêmes résultats avec une technologie low-tech qu'avec une technologie high-tech ?*
+<br> <br>
+Pour réaliser cette comparaison, nous avons conçu un banc de test à partir de zéro. Sur ce dépôt GitHub, vous trouverez tous les outils et codes que nous avons développés pour répondre à cette question. Enfin, à la fin de ce dépôt, vous découvrirez la réponse à notre problématique.
 
 ## Contenu : 
 Dans ce github vous retrouverez tout le travail réalisé dans le contexte de ce projet capteur. Vous trouverez un dossier indépendant pour chaque partie de notre projet. <br> <br>
@@ -9,6 +11,7 @@ Dans ce github vous retrouverez tout le travail réalisé dans le contexte de ce
 **2. Shield dans KiCAD :** Dans le dossier KiCAD  vous trouverez le schémas du montage correspondant à notre banc de test : . Vous trouverez également le fichier .pcb que vous pourrez utiliser si vous voulez commander la PCB. La PCB permettra une meilleure installation des composants et peut s'avérer plus comfortable. Cependant, le montage pourra également être réalisé avec des breaboards et des branchements "à la main". <br>
 **3. Impression 3D du support:** Notre banc de test utilise un support où l'on vient installer la jauge de contrainte à tester et le servo moteur qui nous servira à appliquer la contrainte sur le capteur. Dans ce dossier vous trouverai le modèle 3D de cette pièce (réalisé sur la version étuidient 10 de PTC Creo) ainsi que le fichier .stl qui vous permettra d'imprimer la pièce avec une imprimante 3D. Cette étape n'est pas obligatoire, vous pouvez très bien réaliser un support pour le capteur et le servo moteur chez vous. <br> 
 **4. L'application bluetooth :** À l'aide de MIT App Inventor nous avons également réalisé une application compatible avec n'importe quel Android. Cette application permet la communication entre votre smartphone Android et le montage. Vous pourrez dans cette application visualiser les courbes de contraintes du capteur que vous étudiez. <br>
+**5. Datasheet du capteur Low Tech :**
 
 ## Pré-requis : 
 - Application Arduino, version : 
