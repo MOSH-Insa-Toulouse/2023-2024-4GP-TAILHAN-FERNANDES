@@ -85,7 +85,7 @@ Pour réaliser ce banc de test, suivez les étapes suivantes :
 
 #### Traitement de données :
 1. Ouvrez les fichiers .txt avec Excel en choisissant "," comme séparateur de colonne.
-2. Effacez toutes les valeurs pour lesquelles le capteur est au repos.
+2. Effacez toutes les lignes pour lesquelles le capteur est au repos.
 3. Ordonnez votre tableau par déformation_z_cm croissante.
 4. Enregistrez les données dans le tableau/feuille qui vous paraît pertinent, dans le fichier donnees_courbes.
 5. Les courbes sont automatiquement générées dans la feuille : Ensemble.
