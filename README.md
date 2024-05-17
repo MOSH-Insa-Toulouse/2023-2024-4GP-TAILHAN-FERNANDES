@@ -47,12 +47,12 @@ Pour passer d'un menu à un autre il faut appuyer sur l'encodeur rotatoire. À l
 ### Application :
 
 1. Appariez votre smartphone avec votre module Bluetooth HC05. Si un code est demandé, tapez soit 0000 soit 1234.
-2. Téléchargez le fichier .exe sur votre smartphone en scannant le QR Code que vous trouverez dans le dossier /Application.
+2. Téléchargez le fichier .exe sur votre smartphone en scannant le QR Code que vous trouverez dans le dossier /Application Android.
 3. Une fois l'application installée sur votre Android, accordez les droits nécessaires à votre application afin qu'elle puisse détecter les appareils Bluetooth connectés à votre Android via les paramètres.
-4. Ouvrez l'application sur votre smartphone, puis cliquez sur le bouton : Devices list.
+4. Ouvrez l'application sur votre smartphone, puis cliquez sur le logo Connect + Bluetooth.
 5. Sélectionnez le module HC05.
 6. Normalement, la courbe de contrainte de votre capteur s'affiche.
-7. Pour afficher la bonne courbe, vous devez introduire manuellement la valeur de R2 (lue sur l'écran OLED, menu : Calibration), puis cliquez sur le bouton "Actualiser R2".
+7. Pour afficher la bonne courbe, vous devez introduire manuellement la valeur de R2 (lue sur l'écran OLED, menu : Calibration), puis cliquez sur le bouton "Actualiser R2" de l'application.
 8. L'application vous permet également d'arrêter ou de lancer la rotation du servo-moteur avec les boutons : Moteur ON / Moteur OFF.
 
 ### Banc de test :
