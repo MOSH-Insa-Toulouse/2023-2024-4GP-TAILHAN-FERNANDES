@@ -57,8 +57,9 @@ Pour passer d'un menu à un autre il faut appuyer sur l'encodeur rotatoire. À l
 
 ### Banc de test :
 
-Veuillez trouver ci-dessous une image de notre banc de test : <br> <br>
-
+Veuillez trouver ci-dessous une image de notre banc de test : 
+![IMG_6128](https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP-TAILHAN-FERNANDES/assets/160252878/31df7eac-e21e-4d9a-ae10-8c730610d546)
+<br> <br>
 Au centre, vous pouvez observer la pièce principale qui jouera le rôle de support pour notre banc d'essai. À sa droite est positionné le servo-moteur, accompagné du capteur de graphite. À gauche, se trouve l'Arduino UNO et juste au-dessus de celui-ci s'étend notre montage électrique intégré dans le PCB.
 
 Pour réaliser ce banc de test, suivez les étapes suivantes :
