@@ -34,7 +34,7 @@ Dans ce github vous retrouverez tout le travail réalisé dans le contexte de ce
 ### Montage :
 1. Le premier pas, avant de démarrer, sera de réaliser le montage présenté ci-dessous : 
 2. Nous vous recommandons fortement que vous installiez les composants un par un et que vous les testiez individuellement avec les programmes fournis dans /Arduino
-[Image du schémas du montage]
+![schema_montage](https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP-TAILHAN-FERNANDES/assets/160252878/4d68e56b-8bb7-4e42-889d-6d04c53f35ca)
 1. Une fois les branchements effectués : brancher l'arduino UNO à votre PC 
 2. Ouvrez le fichier assemblage.ino qui se trouve dans /Arduino/Assemblage
 3. Sélectionnez votre Arduino UNO une fois le programme ouvert 
