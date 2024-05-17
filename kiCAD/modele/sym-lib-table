@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Ma_Librairie_empreinte_graphene")(type "KiCad")(uri "${KIPRJMOD}/Ma_Librairie_empreinte_graphene.kicad_sym")(options "")(descr ""))
+)
